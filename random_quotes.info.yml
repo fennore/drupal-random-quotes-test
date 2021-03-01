@@ -1,0 +1,5 @@
+name: Random quotes
+type: module
+description: 'Show random quotes'
+package: Custom blocks
+core_version_requirement: ^9

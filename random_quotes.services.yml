@@ -1,0 +1,6 @@
+services:
+  random_quotes.pick_random_quote:
+    class: Drupal\random_quotes\Service\PickRandomQuote
+    arguments: ['@current_user']
+  Drupal\random_quotes\Service\PickRandomQuoteInterface:
+    alias: random_quotes.pick_random_quote

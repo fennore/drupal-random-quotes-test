@@ -1,0 +1,6 @@
+show random quote:
+  title: 'Show random quote'
+  description: Allow users to see a random quote. Will show a fixed quote otherwise.
+set fixed quote:
+  title: 'Set fixed quote'
+  description: Allow users to configure which quote is shown as fixed quote.

@@ -1,0 +1,7 @@
+{
+    "name": "drupal/random_quotes",
+    "require": {
+        "symfony/finder": "^5.2",
+        "symfony/property-access": "^5.2"
+    }
+}

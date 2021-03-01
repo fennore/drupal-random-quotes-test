@@ -1,0 +1,11 @@
+<?php
+
+function random_quotes_theme() {
+  return [
+    'random_quotes_block' => [
+      'variables' => [
+        'quote' => NULL,
+      ]
+    ],
+  ];
+}
